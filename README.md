@@ -1,0 +1,3 @@
+Uses dataset from the following website: https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset/data
+
+PyTorch and Jupyter were used
